@@ -13,4 +13,4 @@ sklearn==0.0
 telepyth
 torch>=0.4.1
 torchvision>=0.2.1
-tqdm==4.27.0
+tqdm==4.66.3
